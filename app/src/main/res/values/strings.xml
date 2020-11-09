@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex092</string>
+    <string name="math_series">Math series</string>
+    <string name="geometric_series">Geometric series</string>
+    <string name="insert_the_first_object_in_the_series">Insert the first object in the series:</string>
+    <string name="insert_the_distance_of_the_series">Insert the distance of the series:</string>
+    <string name="show_the_series">show the series</string>
+    <string name="return_back">Return Back</string>
+</resources>
