@@ -132,7 +132,7 @@
                 android:onClick="showTheSeries"
                 android:text="@string/show_the_series"
                 android:textColorHint="#FFFFFF"
-                app:backgroundTint="@color/material_on_surface_disabled" />
+                app:backgroundTint="@color/cardview_dark_background" />
 
             <Space
                 android:layout_width="0px"

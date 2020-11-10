@@ -84,7 +84,7 @@
                 android:text="@string/return_back"
                 android:textAlignment="center"
                 android:textAllCaps="true"
-                app:backgroundTint="@color/material_on_surface_disabled" />
+                app:backgroundTint="@color/cardview_dark_background" />
 
             <Space
                 android:layout_width="0px"
