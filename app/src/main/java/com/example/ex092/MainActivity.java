@@ -17,18 +17,8 @@ import android.widget.Toast;
  */
 public class MainActivity extends AppCompatActivity {
 
-    /**
-     * The Distance represents the distance between objects.
-     * The First represents the first object of the whole series.
-     */
     EditText distance, firstObject;
-    /**
-     * The type represents the user's choice (Geometric / Math).
-     */
     Switch type;
-    /**
-     * The flag saves the user's choice (Geometric / Math).
-     */
     boolean flag;
 
     @Override
